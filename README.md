@@ -8,8 +8,8 @@ Never diagnose individuals. This is research infrastructure, not therapy.
 
 ## Components
 
-agents/ for construct-mapper, literature-scout, methods-critic, psychometrics, qualitative, behavioral-experiment.
-skills/ for construct-map, systematic-review, survey-design, psychometrics-check, qualitative-coding.
-workflows/ and schemas/.
+- agents/: construct-mapper, literature-scout, methods-critic, psychometrics, qualitative, behavioral-experiment
+- skills/: construct-map, systematic-review, survey-design, psychometrics-check, qualitative-coding
+- workflows/ and schemas/
 
 See psychologyresearch.yaml and .codex/tasks.md
